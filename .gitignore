@@ -1,0 +1,11 @@
+data/
+!data/README.md
+
+identities/
+!identity/README.md
+
+.idea/
+.venv/
+
+*.pyc
+__pycache__/
